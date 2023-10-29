@@ -1,0 +1,9 @@
+# terraform commands
+terraform init
+
+terraform import azurerm_resource_group.pocResourceGroup  "/subscriptions/d7d0b744-7dd4-494d-b357-0e13c93cf89e/resourceGroups/RG-EUR-DE-POC-Santhosh"
+
+terraform plan
+terraform apply
+
+
